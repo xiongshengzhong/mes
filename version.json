@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "versionCode": 101,
+  "version": "1.0.2",
+  "versionCode": 102,
   "downloadUrl": "https://github.com/xiongshengzhong/mes/blob/main/apk/xiaomao-v1.0.1.apk",
   "forceUpdate": false,
   "updateLog": "版本 1.0.1 更新内容：\n\n1. 修复已知问题\n2. 优化用户体验\n3. 新增功能\n4. 提升应用性能",
